@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih Provinsi --Bal</name>
+   <tag></tag>
+   <elementGuidId>511228dc-ecb7-41bb-bcb1-ba46349580be</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ap_dom_province</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-field-2 ut-border required</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ap_dom_province</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Provinsi --BaliBangka BelitungBantenBengkuluDI YogyakartaDKI JakartaGorontaloJambiJawa BaratJawa TengahJawa TimurKalimantan BaratKalimantan SelatanKalimantan TengahKalimantan TimurKalimantan UtaraKepulauan RiauLampungMalukuMaluku UtaraNanggroe Aceh Darussalam (NAD)Nusa Tenggara Barat (NTB)Nusa Tenggara Timur (NTT)PapuaPapua BaratRiauSulawesi BaratSulawesi SelatanSulawesi TengahSulawesi TenggaraSulawesi UtaraSumatera BaratSumatera SelatanSumatera Utara</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ap_dom_province&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

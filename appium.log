@@ -1,0 +1,62 @@
+[Appium] Welcome to Appium v1.7.2
+[Appium] Non-default server args:
+[Appium]   port: 56321
+[Appium]   loglevel: info
+[Appium]   chromeDriverPort: 56323
+[Appium]   tmpDir: /var/folders/7l/zbcjnp6j4sg6th412_96p9yw0000gp/T//Katalon/Appium/Temp1520396071573
+[Appium] Appium REST http interface listener started on 0.0.0.0:56321
+[HTTP] --> GET /wd/hub/status {}
+[HTTP] <-- GET /wd/hub/status 200 30 ms - 72 
+[HTTP] --> GET /wd/hub/status {}
+[HTTP] <-- GET /wd/hub/status 200 15 ms - 72 
+[HTTP] --> POST /wd/hub/session {"desiredCapabilities":{"app":"/Users/pandu.buana/Downloads/UT APK/3.4.1_82_Staging_201803021818.apk","autoGrantPermissions":true,"deviceName":"emulator-5554 (Android SDK built for x86_64 - Android 5.1.1)","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platform":"ANDROID","platformName":"Android","udid":"emulator-5554"},"capabilities":{"desiredCapabilities":{"app":"/Users/pandu.buana/Downloads/UT APK/3.4.1_82_Staging_201803021818.apk","autoGrantPermissions":true,"deviceName":"emulator-5554 (Android SDK built for x86_64 - Android 5.1.1)","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platform":"ANDROID","platformName":"Android","udid":"emulator-5554"},"firstMatch":[{"platformName":"android"}]}}
+[Appium] Merged W3C capabilities {"desiredCapabilities":{"app":"/Users/pandu.bua... into desiredCapabilities object {"app":"/Users/pandu.buana/Downloads/UT APK/3.4...
+[Appium] Creating new AndroidDriver (v1.37.0) session
+[Appium] Capabilities:
+[Appium]   app: /Users/pandu.buana/Downloads/UT APK/3.4.1_82_Staging_201803021818.apk
+[Appium]   autoGrantPermissions: true
+[Appium]   deviceName: emulator-5554 (Android SDK built for x86_64 - Android 5.1.1)
+[Appium]   fullReset: false
+[Appium]   newCommandTimeout: 1800
+[Appium]   noReset: true
+[Appium]   platform: ANDROID
+[Appium]   platformName: android
+[Appium]   udid: emulator-5554
+[BaseDriver] The following capabilities were provided, but are not recognized by appium: platform.
+[BaseDriver] Session created with session id: aed18fcd-48b6-41c6-8ec9-584beba4c831
+[AndroidDriver] Java version is: 1.8.0_102
+[ADB] Checking whether adb is present
+[ADB] Using adb from /Users/pandu.buana/.katalon/tools/android_sdk/platform-tools/adb
+[AndroidDriver] Retrieving device list
+[AndroidDriver] Using device: emulator-5554
+[ADB] Checking whether adb is present
+[BaseDriver] Using local app '/Users/pandu.buana/Downloads/UT APK/3.4.1_82_Staging_201803021818.apk'
+[AndroidDriver] Starting Android session
+[AndroidDriver] setDeviceLanguageCountry requires language or country.
+[AndroidDriver] Got language: 'null' and country: 'null'
+[ADB] Checking whether aapt is present
+[ADB] Using aapt from /Users/pandu.buana/.katalon/tools/android_sdk/build-tools/27.0.3/aapt
+[ADB] Checking whether aapt is present
+[ADB] Getting device platform version
+[ADB] Checking whether aapt is present
+[ADB] Extracting package and launch activity from manifest
+[AndroidDriver] Remote apk path is /data/local/tmp/2b8a199fad857ec403c40e9c3fcf7329.apk
+[ADB] Checking whether aapt is present
+[ADB] Extracting package and launch activity from manifest
+[ADB] Cannot kill process 3776 in 1000 ms. Trying to force kill...
+[AndroidBootstrap] Android bootstrap socket is now connected
+[AndroidDriver] Screen already unlocked, doing nothing
+[Appium] New AndroidDriver session created successfully, session aed18fcd-48b6-41c6-8ec9-584beba4c831 added to master session list
+[HTTP] <-- POST /wd/hub/session 200 13285 ms - 1205 
+[HTTP] --> GET /wd/hub/status {}
+[HTTP] <-- GET /wd/hub/status 200 23 ms - 83 
+[HTTP] --> POST /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831/timeouts {"type":"implicit","ms":60000}
+[HTTP] <-- POST /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831/timeouts 200 8 ms - 76 
+[HTTP] --> GET /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831/source {}
+[HTTP] <-- GET /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831/source 200 440 ms - 5910 
+[HTTP] --> GET /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831/screenshot {}
+[HTTP] <-- GET /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831/screenshot 200 2513 ms - 160254 
+[HTTP] --> DELETE /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831 {}
+[Appium] Removing session aed18fcd-48b6-41c6-8ec9-584beba4c831 from our master session list
+[ADB] No uiautomator process found to kill, continuing...
+[HTTP] <-- DELETE /wd/hub/session/aed18fcd-48b6-41c6-8ec9-584beba4c831 200 2191 ms - 76 

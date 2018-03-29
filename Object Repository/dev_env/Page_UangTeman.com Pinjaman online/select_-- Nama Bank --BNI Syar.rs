@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Nama Bank --BNI Syar</name>
+   <tag></tag>
+   <elementGuidId>96ceb925-842b-46f5-b488-d491af647a51</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ap_bank_name_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-field-2 ut-border</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ap_bank_name_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Nama Bank --BNI SyariahBCAMandiriBRIBank DanamonBNIPermata BankBIIBank PaninBank CIMB NiagaBank Arta Niaga KencanaBank LippoBank DKIBank Buana IndonesiaBank JabarBank JatengBank JatimBPD JambiBPD AcehBPD DIYBank NISPAmerican Express Bank LtdBank Ekspor IndonesiaCitibank N.A.JP. Morgan Chase Bank, N.A. Bank of America, N.AIng Indonesia BankBank Multicor TbkBank Artha Graha Bank Credit Agricole IndosuezThe Bangkok Bank Comp. LtdThe Hongkong and Shanghai B.C.The Bank of Tokyo Mitsubishi UFJ LtdBank Sumitomo Mitsui IndonesiaBank Dbs IndonesiaBank Resona PerdaniaBank Mizuho IndonesiaStandard Chartered BankBank ABN AmroBank Keppel Tatlee BuanaBank Capital Indonesia, Tbk.Bank BNP Paribas IndonesiaBank UOB IndonesiaKorea Exchange Bank DanamonRabobank Internasional IndonesiaANZ Panin BankDeutsche Bank Ag.Bank Woori IndonesiaBank of China LimitedBank Bumi ArtaBank EkonomiBank AntardaerahBank HagaBank IFIBank Century, Tbk.Bank MayapadaBank SumutBank NagariBank RiauBank SumselBank LampungBPD KalselBPD Kalimantan BaratBPD KaltimBPD KaltengBPD SulselBank SulutBPD NTBBPD BaliBank NTTBank MalukuBPD PapuaBank BengkuluBPD Sulawesi TengahBank SultraBank Nusantara ParahyanganBank SwadesiBank MuamalatBank MestikaBank Metro ExpressBank Shinta IndonesiaBank MaspionBank Hagakita Bank GaneshaBank Windu KentjanaBank ICBC IndonesiaBank Harmoni InternationalBank KesawanBank Tabungan Negara (PERSERO)Bank Himpunan Saudara 1906, TbkBank Tabungan Pensiunan NasionalBank Victoria SyariahBank Jasa ArtaBank MegaBank Jasa JakartaBank BukopinBank Syariah MandiriBank Bisnis InternasionalBank Sri ParthaBank KEB HanaBank MNCBank Yudha BhaktiBank MitraniagaBank Agro NiagaBank IndomonexBank Royal IndonesiaBank NobubankBank Syariah MegaBank INA PerdanaBank Panin SyariahPrima Master BankBank Persyarikatan IndonesiaBank AkitaLiman International BankAnglomas Internasional BankBank Sahabat SampoernaBank Kesejahteraan EkonomiBank UOBBank Artos IndBank Purba DanartaBank Multi Arta SentosaBank MayoraBank Index SelindoBank Victoria InternationalBank EksekutifCentratama Nasional BankBank Fama InternasionalBank Sinar Harapan BaliBank HardaBank FinconesiaBank MerincorpBank Maybank IndocorpBank OCBC IndonesiaBank CommonweatlhBank China Trust IndonesiaBank SinarmasBRI SyariahBank Jabar Syariah</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ap_bank_name_id&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

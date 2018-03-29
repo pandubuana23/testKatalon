@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img-tooltip</name>
+   <tag></tag>
+   <elementGuidId>acab68c8-20f1-437d-bf9d-e7960ae78fd0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-tooltip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dev.uangteman.com/assets/frontend/statics/v4/images/tooltip.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-calculator&quot;)/div[@class=&quot;ut-form-container&quot;]/div[1]/div[@class=&quot;ut-form-box1&quot;]/section[@class=&quot;installment-application-switch&quot;]/div[@class=&quot;ut-loan-payment-detail col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 col-xs-2&quot;]/div[@class=&quot;tooltip-text-box&quot;]/img[@class=&quot;img-tooltip&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
