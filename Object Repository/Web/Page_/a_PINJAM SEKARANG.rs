@@ -4,6 +4,20 @@
    <name>a_PINJAM SEKARANG</name>
    <tag></tag>
    <elementGuidId>873ab1b1-261f-404c-89bd-3f74fd43e6f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = 'javascript:void(0);' and @id = 'submit-loan' and (text() = 'PINJAM SEKARANG' or . = 'PINJAM SEKARANG')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

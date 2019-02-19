@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_clip-screen</name>
+   <tag></tag>
+   <elementGuidId>b77a60fd-a813-4b3a-938f-d9c3b59749a7</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clip-screen</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;navigation-small&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;navbar-content&quot;]/div[@class=&quot;main-navigation navbar-collapse collapse&quot;]/ul[@class=&quot;main-navigation-menu&quot;]/li[@class=&quot;active open&quot;]/a[1]/i[@class=&quot;clip-screen&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

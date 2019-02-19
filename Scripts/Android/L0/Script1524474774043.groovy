@@ -19,7 +19,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-Mobile.startApplication('/Users/pandu.buana/Downloads/UT APK/3.4.1_82_Staging_201803021818.apk', true)
+Mobile.startApplication('/Users/pandu.buana/Downloads/app-debug (7).apk', true)
 
 Mobile.tap(findTestObject('Android/Selanjutnya'), 0)
 
@@ -27,7 +27,9 @@ Mobile.tap(findTestObject('Android/Selanjutnya'), 0)
 
 Mobile.tap(findTestObject('Android/Lewati'), 0)
 
-Mobile.tap(findTestObject('android.widget.ImageButton0'), 0)
+WebUI.waitForElementPresent(findTestObject('Android 2/android.widget.Button0 - Ajukan Pinjaman'), 1)
+
+Mobile.tap(findTestObject('Android 2/android.widget.Button0 - Ajukan Pinjaman'), 0)
 
 Mobile.tap(findTestObject('android.widget.CheckedTextView3 - Bantuan'), 0)
 
